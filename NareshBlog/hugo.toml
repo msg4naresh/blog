@@ -1,0 +1,5 @@
+baseURL = 'https://msg4naresh.github.io/'
+languageCode = 'en-us'
+title = 'Naresh Blog'
+theme = 'PaperMod'
+

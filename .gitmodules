@@ -1,0 +1,11 @@
+[submodule "NareshBlog/themes/PaperMod"]
+	path = NareshBlog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "NareshBlog/msg4naresh.github.io"]
+	path = NareshBlog/msg4naresh.github.io
+	url = https://github.com/msg4naresh/msg4naresh.github.io.git
+	branch = main
+[submodule "NareshBlog/public"]
+	path = NareshBlog/public
+	url = https://github.com/msg4naresh/msg4naresh.github.io.git
+	branch = main
