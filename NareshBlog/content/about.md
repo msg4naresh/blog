@@ -8,17 +8,9 @@ ShowBreadCrumbs: false
 
 I'm a machine learning engineer interested in solving intelligence, curious about the universe.
 
-## Get in Touch
+**Connect with me:**
 
-Feel free to connect with me:
-
-- **Twitter**: [@msg4naresh](https://x.com/msg4naresh)
-- **GitHub**: [msg4naresh](https://github.com/msg4naresh)
-- **Substack**: [@msg4naresh](https://substack.com/@msg4naresh)
-- **LinkedIn**: [marrinaresh](https://www.linkedin.com/in/marrinaresh/)
-
-Or leave comments on my posts.
-
----
-
-*Thank you for visiting!*
+- [Twitter](https://x.com/msg4naresh)
+- [GitHub](https://github.com/msg4naresh)
+- [Substack](https://substack.com/@msg4naresh)
+- [LinkedIn](https://www.linkedin.com/in/marrinaresh/)

@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Naresh Blog'
 theme = 'PaperMod'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   ShowReadingTime = true
   ShowShareButtons = true
