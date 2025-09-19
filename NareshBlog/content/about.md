@@ -6,17 +6,18 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Welcome to my blog!
-
-I'm Naresh, and this is where I share my thoughts, experiences, and insights on various topics that interest me.
-
-## About This Blog
-
-This blog is built with Hugo and hosted on GitHub Pages. I write about technology, programming, and other topics that capture my interest.
+I'm a machine learning engineer interested in solving intelligence, curious about the universe.
 
 ## Get in Touch
 
-Feel free to connect with me through the links below or leave comments on my posts.
+Feel free to connect with me:
+
+- **Twitter**: [@msg4naresh](https://x.com/msg4naresh)
+- **GitHub**: [msg4naresh](https://github.com/msg4naresh)
+- **Substack**: [@msg4naresh](https://substack.com/@msg4naresh)
+- **LinkedIn**: [marrinaresh](https://www.linkedin.com/in/marrinaresh/)
+
+Or leave comments on my posts.
 
 ---
 

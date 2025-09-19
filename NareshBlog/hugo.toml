@@ -12,6 +12,25 @@ theme = 'PaperMod'
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
 
+[params.profileMode]
+  enabled = false
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/msg4naresh"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/msg4naresh"
+
+[[params.socialIcons]]
+name = "rss"
+url = "https://substack.com/@msg4naresh"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/marrinaresh/"
+
 [[menu.main]]
 name = "Home"
 url = "/"
